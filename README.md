@@ -12,6 +12,7 @@ A curated list of resources about embedded software development in C++.
 * [Other Written Content](#other-written-content) – Blog posts, articles, C++ Standard proposals, and other non-book resources
 
 ## Libraries
+- [kandi](https://kandi.openweaver.com/collections/artificial-intelligence/top-libraries-for-embedding-in-c%2B%2B) - Find libraries, code snippets in C++
 
 ## Tools
 
